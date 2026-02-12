@@ -4,7 +4,7 @@ import { ParticipantManager } from './components/ParticipantManager';
 import { PrizeManager } from './components/PrizeManager';
 import { WinnerHistory } from './components/WinnerHistory';
 import { Trophy, Users, Gift } from 'lucide-react';
-import logo from 'figma:asset/5278e650c8143a258b5629549409fdd9cd39a0aa.png';
+import logo from './assets/ths_icon.png';
 import chiVangImg from 'figma:asset/5592fe97886705a0c835dcfff6f9954576e1803c.png';
 import luongBacImg from 'figma:asset/b13e62fc27affd00d44ce129b8b4797762c28961.png';
 import img500k from 'figma:asset/604bdaaa4be3b81ecc70c52282c92460822d09d2.png';
